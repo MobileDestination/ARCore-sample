@@ -1,5 +1,3 @@
-# ARCore-sample
-
 # Description
 Sample ARCore with Google SceneForm
 
